@@ -1,0 +1,41 @@
+.layout {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.logo-container {
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+}
+
+.site-logo {
+    height: 60px;
+    width: auto;
+}
+
+.main-content {
+    flex: 1;
+    padding-top: 20px;
+}
+
+.auth-container {
+    margin-top: -20px;
+}
+
+.layout {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-content {
+    flex: 1;
+    padding-top: 20px;
+}
+
+.auth-container {
+    padding-top: 20px;
+}

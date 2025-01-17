@@ -1,0 +1,16 @@
+.header {
+    background-color: #00adaa;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.site-logo {
+    height: 40px;
+    width: auto;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.site-logo:hover {
+    transform: scale(1.05);
+}
