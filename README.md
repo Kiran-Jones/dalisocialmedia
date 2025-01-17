@@ -52,7 +52,7 @@ Site footer
 ## Setup Instructions 
 clone the repository 
 ```bash
-git clone 
+git clone https://github.com/Kiran-Jones/dalisocialmedia.git
 cd dalisocialmedia
 ```
 
