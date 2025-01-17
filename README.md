@@ -53,7 +53,7 @@ Site footer
 clone the repository 
 ```bash
 git clone 
-cd repository
+cd dalisocialmedia
 ```
 
 install backend dependencies with Maven
