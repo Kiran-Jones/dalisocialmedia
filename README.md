@@ -52,8 +52,8 @@ Site footer
 ## Setup Instructions 
 clone the repository 
 ```bash
-git clone 
-cd repository
+git clone https://github.com/Kiran-Jones/dalisocialmedia.git
+cd dalisocialmedia
 ```
 
 install backend dependencies with Maven
